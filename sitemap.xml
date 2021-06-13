@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/06/13/xss%E6%BC%8F%E6%B4%9E/</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/06/13/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E/</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/06/13/url%E8%B7%B3%E8%BD%AC%E6%BC%8F%E6%B4%9E/</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/06/13/csrf%E6%BC%8F%E6%B4%9E/</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/06/13/chrome0day%E5%A4%8D%E7%8E%B0/</loc>
     
     <lastmod>2021-06-13</lastmod>
