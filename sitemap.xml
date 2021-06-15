@@ -29,17 +29,10 @@
     
   </url>
   
-  <url>
-    <loc>http://example.com/2021/06/13/chrome0day%E5%A4%8D%E7%8E%B0/</loc>
-    
-    <lastmod>2021-06-13</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-06-13</lastmod>
+    <lastmod>2021-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
